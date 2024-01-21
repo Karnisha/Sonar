@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//using MySql.Data.MySqlClient;
+using MySql.Data.MySqlClient;
 abstract class DataConnection
 {
     
